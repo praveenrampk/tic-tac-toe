@@ -1,2 +1,2 @@
 # Tic Tac Toe
-[live demo](https://praveen-ram.netlify.app)
+[live demo](https://praveen-p-k.github.io/tic-tac-toe)
